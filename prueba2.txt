@@ -1,1 +1,1 @@
-Voy a hacerle una modificacion al archivo prueba2.txt
+Voy a hacerle una modificacion al archivo prueba2.txt agregar cambio para generar conflicto
